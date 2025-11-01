@@ -3,7 +3,7 @@ Por otro lado, también la carpeta "Database" (que contiene los escenarios de ru
 Finalmente, "Resultados" contiene lo obtenido en la investigación realizada por mí, en caso de que se quieran analizar los resultados obtenidos con los códigos que entrego, simplemente arrastrar los archivos .npz a la carpeta
 donde se ejecutan los códigos, o bien, modificar los códigos para que accedan correctamente a los datos.
 
-Cada uno de los códigos contiene una breve explicación de lo que hace en el principio. Importante resaltar que previo a la ejecución de estos, se deben instalar las librerías adecuadas para utilizar las funciones que
+Cada uno de los códigos contiene una breve explicación de lo que hacen en el principio. Importante resaltar que previo a la ejecución de estos, se deben instalar las librerías adecuadas para utilizar las funciones que
 se llaman.
 
 Mucho éxito y cualquier consulta siempre estaré disponible a través de mi correo: cristian.gonzaleze@sansano.usm.cl
